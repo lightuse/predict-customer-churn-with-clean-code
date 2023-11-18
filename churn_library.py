@@ -1,5 +1,5 @@
 '''
-This is the churn_library.py procedure.
+The churn_library.py is a library of functions to find customers who are likely to churn.
 '''
 
 # import libraries
@@ -226,6 +226,7 @@ def classification_report_image(y_train,
     plt.axis('off')
     plt.savefig(IMAGE_RESULTS_PATH_RF_RESULTS)
     plt.close()
+
 
 def feature_importance_plot(model, X_data, output_pth):
     '''
