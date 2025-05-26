@@ -114,7 +114,7 @@ scikit-plot==0.3.7
 scipy==1.11.3
 seaborn==0.12.2
 Send2Trash==1.8.2
-setuptools==70.0.0
+setuptools==78.1.1
 shap==0.42.1
 sip==6.7.12
 six==1.16.0
