@@ -92,7 +92,7 @@ pycodestyle==2.10.0
 pycparser==2.21
 Pygments==2.15.1
 pylint==2.16.2
-pyOpenSSL==23.2.0
+pyOpenSSL==26.0.0
 pyparsing==3.0.9
 PyQt5==5.15.10
 PyQt5-sip==12.13.0
